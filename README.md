@@ -1,2 +1,2 @@
-# Simple-C-Project
-Here i collected some of my Simple C++ Project which are only made of C++ and simple . these all created when I am Learning C++ To test and apply the logic and method I learn  
+# Simple-CPP-Project
+Welcome to the Basic C++ Projects Repository! This repository contains a collection of simple and beginner-friendly C++ projects. These projects are designed to help new programmers understand fundamental concepts of C++ programming through practical examples.
